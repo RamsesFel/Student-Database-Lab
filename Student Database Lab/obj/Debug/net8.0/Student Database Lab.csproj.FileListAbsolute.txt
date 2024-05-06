@@ -1,0 +1,14 @@
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\bin\Debug\net8.0\Student Database Lab.exe
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\bin\Debug\net8.0\Student Database Lab.deps.json
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\bin\Debug\net8.0\Student Database Lab.runtimeconfig.json
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\bin\Debug\net8.0\Student Database Lab.dll
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\bin\Debug\net8.0\Student Database Lab.pdb
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.AssemblyInfoInputs.cache
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.AssemblyInfo.cs
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.dll
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\refint\Student Database Lab.dll
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.pdb
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.genruntimeconfig.cache
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\ref\Student Database Lab.dll
