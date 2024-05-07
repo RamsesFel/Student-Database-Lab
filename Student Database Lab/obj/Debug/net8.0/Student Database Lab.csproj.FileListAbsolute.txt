@@ -12,3 +12,4 @@ C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug
 C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.pdb
 C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.genruntimeconfig.cache
 C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\ref\Student Database Lab.dll
+C:\Users\Ramses\source\repos\Student Database Lab\Student Database Lab\obj\Debug\net8.0\Student Database Lab.sourcelink.json

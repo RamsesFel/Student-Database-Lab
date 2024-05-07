@@ -19,7 +19,7 @@ do
             "Dearborn Heights", "Chicago"
         };
 
-    Console.WriteLine("Enter a number or name for a student, or enter list to see all students.");
+    Console.WriteLine($"Enter a number between 1-{names.Length} or name for a student, or enter list to see all students.");
     string input = Console.ReadLine().ToLower();
     int nameindex = 0;
     string singlename = "";
@@ -29,6 +29,11 @@ do
         if (nameindex >= 0 && nameindex < names.Length - 1)
         {
             Console.WriteLine(names[nameindex]);
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Try another number");
+            continue;
         }
     }
     else if (input.ToLower().Contains("list"))
